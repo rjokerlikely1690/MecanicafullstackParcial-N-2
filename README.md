@@ -1,7 +1,7 @@
 # AutoMax - Evaluación Parcial N.° 2
 
 <p align="center">
-  <img src="03_Documentacion/Presentacion_Defensa/Arquitectura_AutoMax.png" alt="Arquitectura AutoMax" width="980" />
+  <img src="03_Documentacion/Presentacion_Defensa/Arquitectura_AutoMax.png" alt="Arquitectura conceptual AutoMax" width="860" />
 </p>
 
 Repositorio final del proyecto **AutoMax**, orientado a la gestión de un taller mecánico. Este repositorio reúne la aplicación ejecutable, la documentación académica y la evidencia técnica usada en la entrega.
