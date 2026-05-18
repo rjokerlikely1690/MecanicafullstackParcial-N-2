@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Java / Maven
+**/target/
+
+# Logs and process files
+*.log
+*.pid
+
+# OS / editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated / temporary archives
+*.zip
+ARCHIVO_RAIZ/
+ENTREGA_FINAL/
